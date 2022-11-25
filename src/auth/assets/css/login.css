@@ -1,0 +1,55 @@
+
+.App {
+  background-color: white;
+}
+
+.Auth-background {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 800vw;
+  height: 100%;
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  width: 800vw;
+  height: 100%;
+}
+
+.Auth-form {
+  width: 750px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: left;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+.label {
+  text-align: left;
+  margin-bottom: 1em;
+  font-size: 14px;
+  color: rgb(34, 34, 34);
+  font-weight: 400;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
